@@ -1,0 +1,19 @@
+{
+  "name": "parkinglot",
+  "version": "1.0.0",
+  "description": "Parking Lot problem solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node index.js"
+  },
+  "author": "Ganesh Swami",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
